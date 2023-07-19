@@ -1,40 +1,24 @@
-*{
-    background-color: #cccccc;
+body{
+	background-color:#cccccc;
 }
-
 .player_one{
-    border:1px solid black;
-    border-radius: 2px;
-    background-color: white;
-    padding-inline: 15px;
-    padding-block: 12px;
-
+	background-color:white;	
+	border:1px solid grey;
+	border-radius:5px;
 }
-
 .player_two{
-    border:1px solid black;
-    border-radius: 2px;
-    background-color: white;
-    padding-block: 12px;
-    border margin-left: 22px;
-    
-
-    border-radius:5px;
+	background-color:white;	
+	padding:5px;
+	border:1px solid grey;
+	border-radius:5px;
 	margin-left:auto;
 	margin-right:auto;
 	width:max-content;
-
-    padding-left: 12px;
-    padding-right: 12px;
-    
-
 }
-h1, h3{
-    
-    text-align:center;
-
+ul{
+	list-style-type: none;
+	padding:5px;
 }
-
-#s{
-    width: 400px;
+a{
+	text-decoration-line:none;
 }
