@@ -17,7 +17,7 @@
     background-color: white;
     padding-block: 12px;
     border margin-left: 22px;
-    width: 100%
+    
 
     border-radius:5px;
 	margin-left:auto;
@@ -33,4 +33,8 @@ h1, h3{
     
     text-align:center;
 
+}
+
+#s{
+    width: 400px;
 }
